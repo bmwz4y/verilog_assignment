@@ -1,0 +1,7 @@
+verilog work "signExtend4b8b.v"
+verilog work "parallelReg8b.v"
+verilog work "parallelReg4b.v"
+verilog work "mult4b2b.v"
+verilog work "buf8b.v"
+verilog work "bitwiseInvert8b.v"
+verilog work "pipeSequential.v"

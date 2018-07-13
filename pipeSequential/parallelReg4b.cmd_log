@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/20102171058/Desktop/83755 - yahya mubaideen HW4/pipeSequential/parallelReg4b.xst" -ofn "C:/Users/20102171058/Desktop/83755 - yahya mubaideen HW4/pipeSequential/parallelReg4b.syr" 
