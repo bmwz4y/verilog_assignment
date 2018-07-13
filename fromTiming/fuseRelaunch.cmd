@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/20102171058/Desktop/83755 - yahya mubaideen last lab/fromTiming/testFromTiming_isim_beh.exe" -prj "C:/Users/20102171058/Desktop/83755 - yahya mubaideen last lab/fromTiming/testFromTiming_beh.prj" "work.testFromTiming" "work.glbl" 
