@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/YEH/Study/2017-2018/2018 2nd/CPE433 - ADVANCED DIGITAL SYSTEMS DESIGN/HW5/83755 - yahya mubaideen HW5/LookupTable/testLookupTable_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testLookupTable" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/testLookupTable/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testLookupTable/addrR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrR[3:0]</obj_property>
+      <obj_property name="ObjectShortName">addrR[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testLookupTable/dataOut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataOut[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dataOut[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testLookupTable/RE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RE</obj_property>
+      <obj_property name="ObjectShortName">RE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testLookupTable/WE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">WE</obj_property>
+      <obj_property name="ObjectShortName">WE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testLookupTable/addrW" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addrW[3:0]</obj_property>
+      <obj_property name="ObjectShortName">addrW[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testLookupTable/dataIn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataIn[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dataIn[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,28 @@
+Command line:
+   testLookupTable_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  30727
+
+Wed Mar 21 22:09:24 2018
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 506.405 Meg
+
+ Total Signals          : 20
+ Total Nets             : 32
+ Total Signal Drivers   : 12
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 20
+ Total Traceable Variables  : 26
+ Total Scalar Nets and Variables : 195
+
+ Total Simulation Time: 1.04521 sec
+
+ Current Memory Usage: 506.405 Meg
+
+Wed Mar 21 22:14:52 2018
+
